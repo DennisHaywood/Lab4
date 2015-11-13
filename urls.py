@@ -9,3 +9,5 @@ urlpatterns = patterns('',
     url(r'^blog/', include('mysite.blog.urls')),
     url(r'^admin/', include(admin.site.urls)),
 )
+
+131313131

@@ -12,3 +12,5 @@ class BlogPostAdmin(admin.ModelAdmin):
     list_display = ('title', 'timestamp')
 
 admin.site.register(BlogPost, BlogPostAdmin)
+
+6546465

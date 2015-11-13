@@ -9,4 +9,4 @@ def archive(request):
     c = Context({ 'posts': posts })
     return HttpResponse(t.render(c))
 
-888888
+88888822222222222
